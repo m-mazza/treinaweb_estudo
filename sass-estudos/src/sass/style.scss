@@ -1,0 +1,17 @@
+@import "caixa.scss";
+
+body {
+    background-color: black;
+    h1 {
+        color: green;
+    }
+}
+.container {
+    p {
+        color: green;
+        &:hover {
+            // color: red;
+            cursor: pointer;
+        }
+    }
+}
