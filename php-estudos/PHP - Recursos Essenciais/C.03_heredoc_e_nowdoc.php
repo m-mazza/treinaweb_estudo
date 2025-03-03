@@ -16,5 +16,6 @@
         <h1 style="color: red">Olá $escola</h1>
         <p style="color:blue">Bem-vindo ao curso $curso</p>
     HTML;
+    
     echo $conteudo; 
 ?>
